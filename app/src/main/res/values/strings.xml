@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TreeChain</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tree_project">TreeProjectActivity</string>
+    <string name="title_activity_verify">VerifyActivity</string>
+    <string name="verify_radio_button_1">I verify that this tree plantation is valid</string>
+    <string name="verify_radio_button_2">This tree plantation was not valid</string>
+</resources>
